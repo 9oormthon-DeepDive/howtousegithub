@@ -1,4 +1,4 @@
-# 가이드 레포지토리
+<# 가이드 레포지토리
 
 이 레포지토리는 수강생분들을 위한 가이드 레포지토리입니다. 해당 가이드라인을 참고하여 레포지토리를 생성하고 팀프로젝트를 진행해주세요.
 
@@ -18,7 +18,11 @@ Repositories 탭을 누른 후, New Repository 버튼을 클릭해주세요.
 
 ![img](./newRepo.png)
 
-Respository name에 프로젝트 명을 입력합니다.
+Respository name의 경우 아래 형식을 지켜 작성 부탁드립니다. 
+```
+<풀스택 : 과정명-회차-프로젝트 ex.<fullstack-07-project>>
+<정보보호 : 과정명-회차-프로젝트 ex.<security-06-project>>
+```
 
 ![img](./repoName.png)
 
