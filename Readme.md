@@ -20,7 +20,7 @@ Repositories 탭을 누른 후, New Repository 버튼을 클릭해주세요.
 
 Respository name의 경우 아래 형식을 지켜 작성 부탁드립니다. 
 ```
-풀스택 : 과정명-회차-프로젝트 ex.<fullstack-07-project>
+풀스택 : 과정명-회차-프로젝트 ex.<fullstack-07-project-fe>, <fullstack-07-project-be>
 정보보호 : 과정명-회차-프로젝트 ex.<security-06-project>
 ```
 
